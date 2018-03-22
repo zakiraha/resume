@@ -7,31 +7,43 @@
   },
   "education":[
    {
-     "course":"B.Tech(CSE)",
+     "course":"B.Tech(Computer Science & Engineering)",
      "college":[
        "G.PULLAIAH COLLEGE OF ENGINEERING",
        "2015-2019",
        "70"
      ]
-
    },
    {
      "course":"Intermediate(MPC)",
      "college":[
        "narayana junior college",
        "2013-2015",
-       "70"
+       "90"
      ]
-
    },
    {
      "course":"ssc",
      "college":[
        "S.M.H.S",
        "2013",
-       "75"
+       "90"
      ]
    }
+ ],
 
+  "skills":[
+    {
+      "name":"web technologies",
+      "value":"HTML,CSS"
+    },
+    {
+      "name":"operating system",
+      "value":"LINUX,WINDOWS"
+    },
+    {
+      "name":"programming languages",
+      "value":"C.C++,Java"
+    }
   ]
 }
