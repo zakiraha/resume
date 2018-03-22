@@ -4,5 +4,34 @@
     "name":"zakir",
     "email":"shaikzakir@gmail.com",
     "mobile":"9999999999"
-  }
+  },
+  "education":[
+   {
+     "course":"B.Tech(CSE)",
+     "college":[
+       "G.PULLAIAH COLLEGE OF ENGINEERING",
+       "2015-2019",
+       "70"
+     ]
+
+   },
+   {
+     "course":"Intermediate(MPC)",
+     "college":[
+       "narayana junior college",
+       "2013-2015",
+       "70"
+     ]
+
+   },
+   {
+     "course":"ssc",
+     "college":[
+       "S.M.H.S",
+       "2013",
+       "75"
+     ]
+   }
+
+  ]
 }
